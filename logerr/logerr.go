@@ -1,4 +1,4 @@
-package logerror
+package logerr
 
 import (
 	"fmt"
